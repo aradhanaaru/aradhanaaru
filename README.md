@@ -170,9 +170,7 @@ Full details, troubleshooting, and the Matrix-rain asset setup are in **SETUP.md
 |:-------:|:-----:|:----------:|
 | 🎬 **[Netflix Data Analysis](https://github.com/aradhanaaru/Netflix-Data-Analysis)** | Python, Pandas, NumPy, Matplotlib, Seaborn | Analyzed 8,807 Netflix titles to uncover patterns across content type, country, genre, and rating; full EDA with data cleaning, missing-value handling, and visual insight generation. |
 | 🤖 **[SmartBiz AI](https://github.com/aradhanaaru/smartbiz-ai)** | Python (Flask), JavaScript, HTML, CSS | An AI-powered business assistant/chatbot built to help small businesses — Flask backend (`app.py`, `ai.py`, `database.py`) serving an interactive web frontend. |
-| 🏔️ **360° Visualization of Sikkim Monasteries** | Web Dev, 360° Media | Immersive virtual tour of cultural heritage sites |
-| 🏛️ **Ancient Indian Mathematics Teaching** | Web Dev, EdTech | Interactive platform for teaching traditional mathematical methods |
-| 🏭 **Industry Emergency Alarm Management System** | Web Development, DBMS, Industrial Safety | Web-based emergency management system that detects emergency locations, identifies emergency type, monitors sensors, manages employees/incidents/response teams, and sends notifications for fast industrial response. |
+
 
 </div>
 
@@ -199,7 +197,7 @@ Full details, troubleshooting, and the Matrix-rain asset setup are in **SETUP.md
 
 | Degree | Institution | Expected | Score |
 |:------:|:-----------:|:--------:|:-----:|
-| B.Tech Information Technology | Sri Ramakrishna Engineering College, Coimbatore | 08/2030 | 8.88 GPA |
+| B.Tech Information Technology | Sri Ramakrishna Engineering College, Coimbatore | 08/2029 | 8.88 GPA |
 
 </div>
 
